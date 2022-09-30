@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node src/index.js"
+    "start": "node index.js",
+    "test": "node index.js"
   },
   "author": "Abner Cruz",
   "license": "ISC",
